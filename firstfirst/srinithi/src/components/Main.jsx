@@ -7,7 +7,7 @@ const Main= () =>{
               <input  id="name" type="box" placeholder="Email ID"></input>
            <br>
            </br>
-               <label for="na">Password: &emsp;</label>
+               <label for="na">Password: </label>
              <input id="na" type="box" placeholder="Password"></input>
            <br>
            </br>
