@@ -15,13 +15,12 @@ const Main= () =>{
             <input id="n" type="box" placeholder="click"></input>
             <br>
             </br>
-        <button>
-
-          Submit
-        </button>
+        
+            <button variant="outlined">Submit</button>
       </center>
         </div>
     );
 };
+
 
 export default Main;
