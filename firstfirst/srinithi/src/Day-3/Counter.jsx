@@ -8,7 +8,7 @@ const Counter = () => {
       <button
         className="px-4 py-2 bg-red-500"
         onClick={() => setCount(count + 1)}
-      >
+        >
         Increment
       </button>
       <button className="px-4 py-2 bg-red-500" onClick={() => setCount(0)}>
